@@ -1,2 +1,3 @@
 # Himanshu.
-This remo is a demo repo
+This is a demo repository.
+Author -- Himanshu Tiwari
